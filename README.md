@@ -1,0 +1,11 @@
+<img width="1440" alt="Screenshot 2024-03-14 at 11 14 56 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/c0957212-13ab-4ad3-8a27-64fde5c091c9">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 15 00 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/2bc5de04-667a-4fc9-83a9-9c6e520eedb5">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 15 49 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/832ef236-fed4-445b-aa47-2757d535b918">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 15 53 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/b7bf2c29-bdf8-4c44-b45f-5127a868567f">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 05 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/2fffbe47-22de-4238-bfb3-b11fcbc6c34a">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 09 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/9b97fbd7-99b9-482c-a26b-3bc2145a0325">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 29 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/9fc4f82b-cf23-4e09-8083-122b604143b7">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 33 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/b5054d3e-f56d-4f51-b09e-dd4d78deb580">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 46 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/65de00da-0a7b-486f-a7d6-2946109d8064">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 16 55 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/a0dc72fe-edb7-4b56-b74a-cad64d8044eb">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 17 00 PM" src="https://github.com/ManvithChandra0/OnlineBankingManagement/assets/96135784/59ae58a3-1ad5-478b-81fd-66f1ba3c71f7">
